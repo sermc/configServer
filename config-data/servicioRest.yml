@@ -1,2 +1,6 @@
 server:
   port: 8099
+  
+spring:
+  application:
+    name: nttdatacenters-spring-t5-SMC

@@ -4,7 +4,7 @@ server:
 
 spring:
   application:
-    name: NttdatacentersSpringT5Smc
+    name: servicioRest
   h2:
     console:
       settings:

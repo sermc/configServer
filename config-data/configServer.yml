@@ -3,4 +3,4 @@ server:
   
 spring:
   application:
-    name: nttdatacenters-spring-t5-SMC
+    name: configServer
